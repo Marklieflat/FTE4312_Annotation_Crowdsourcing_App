@@ -1,24 +1,24 @@
 # FTE4312_Proofreading_Project
 The repository of De-data Proofreading crowdsourcing App
 
-Introduction:
+## Introduction:
 
-Motivation:
+## Motivation:
 
-Story:
+## Story:
 1.Advantages
 2.Novelty
 3.Reasons for using decentralization
 
-Implementation:
+## Implementation:
 1.Source code
 2.Functions
 
-Application:
-1.客户服务自动化：
-1.1.使用语音识别和处理技术来自动化客户支持电话。
-1.2.聊天机器人和虚拟助手可以解析客户的请求并提供相应的服务或信息。
-2.机器翻译：
+## Application:
+### 客户服务自动化：
+#### 使用语音识别和处理技术来自动化客户支持电话。
+#### 聊天机器人和虚拟助手可以解析客户的请求并提供相应的服务或信息。
+### 机器翻译：
 2.1.用于将一种语言的文本或语音自动翻译成另一种语言。
 2.2.语音标注有助于提高翻译准确性和自然性。
 3.健康护理：

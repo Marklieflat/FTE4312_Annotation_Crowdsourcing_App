@@ -4,6 +4,21 @@ The repository of De-data Proofreading crowdsourcing App
 ## Introduction:
 
 ## Motivation:
+### Market value:
+ Speech recognition market continues to grow at a high rate, driven by recognition accuracy improvement in 2017-2022, with an average annual compound growth rate of about 26% in 2022, the market size of 13.640 billion yuan in 2022; 2022-2027 application scenarios expanding Driven by the expansion of application scenarios in 2022-2027, the average annual compound growth rate of about 28%, the market size in 2027 is expected to exceed 45 billion yuan exceeded 45 billion yuan.
+
+ ### Trend in Technologies
+ The labelling of speech data is crucial for training machine learning models. By providing high-quality data annotation, we can help organisations better leverage AI technology to gain an edge in a competitive market.
+
+ ### Pain point
+ 1. High volume of data for labelling tasks
+ Time-consuming and space-consuming transmission.
+ 2. Long delivery times
+ For example, the fastest time for KDDI to artificially convert 1 hour of audio and video is 3 hours, 5-8 hours for subtitles, and 12 hours for English.
+ 3. Complexity and diversity of content
+ Multi-language, multi-professional and regional dialect accents, low volume, many speakers, fast speech, background noise and other complex audio and video or special format requirements of audio and video processing.
+ 4. Duplicate proofreading
+ Facing duplicate proofreading or proofreading requesters not benefiting from duplicate proofreading of data.
 
 ## Story:
 ### Advantages：

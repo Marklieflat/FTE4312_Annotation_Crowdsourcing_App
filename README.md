@@ -3,6 +3,14 @@ The repository of De-data Proofreading crowdsourcing App
 
 ## Introduction:
 
+In the rapidly evolving digital era, the surge in data generation, particularly in the realm of audio and speech, presents both an opportunity and a challenge. The "De-data Proofreading crowdsourcing App" emerges as a pivotal solution to the modern-day data deluge, addressing the critical need for accurate and efficient processing of speech data. This project is not just an innovation in data handling but also a stride forward in leveraging the potential of crowd-sourced intelligence and blockchain technology.
+
+At its core, the De-data Proofreading App is designed to refine and proofread large volumes of speech data, transforming raw audio into valuable, actionable information. We recognize that while machines are great at crunching numbers and organizing data, they often miss the mark when it comes to the complexities of human speech. That's where we bring in the human element – skilled proofreaders who add nuance and understanding to the mix. Thus, coupled with the power of AI and blockchain technology, our app is not just another tool for transcribing speech, it's a comprehensive solution that understands and interprets the tone, context, and subtleties of human language.
+
+Our app is more than just a platform, it's a meeting ground for human expertise and technological innovation. It opens up endless possibilities, **[adding some examples used in following Application part]** (eg. **automating customer service calls**, **enhancing machine translation accuracy**, **aiding in mental health diagnosis through speech analysis**, and **providing educational support in language learning**) We're not just transcribing words. We're giving them meaning and context.
+
+At De-data, we're proud to present a space where technology doesn't replace human intelligence but works alongside it. This collaboration paves the way for more accurate, efficient, and insightful processing of speech data, revolutionizing how we understand and utilize spoken words in our digital world.
+
 ## Motivation:
 ### Market value:
  Speech recognition market continues to grow at a high rate, driven by recognition accuracy improvement in 2017-2022, with an average annual compound growth rate of about 26% in 2022, the market size of 13.640 billion yuan in 2022; 2022-2027 application scenarios expanding Driven by the expansion of application scenarios in 2022-2027, the average annual compound growth rate of about 28%, the market size in 2027 is expected to exceed 45 billion yuan exceeded 45 billion yuan.

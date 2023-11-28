@@ -6,13 +6,32 @@ The repository of De-data Proofreading crowdsourcing App
 ## Motivation:
 
 ## Story:
-1.Advantages  
-2.Novelty  
-3.Reasons for using decentralization  
+### Advantages：
+1. Multi-Level Crowdsourcing：
+This approach first involves small-scale crowdsourcing, followed by integration and further crowdsourcing. It allows for efficient handling of large volumes of data by breaking them down into manageable parts and distributing them among various proofreaders.
+2. Creation of a Proofreader Database：
+The platform leverages AI to train, evaluate, grade, and tag proofreaders, ensuring a steady supply of qualified online proofreaders. This database enhances the quality and reliability of the proofreading process.
+3. Blockchain Incentives：
+The platform uses a decentralized blockchain-based system for two-way incentives. It records data features and processing on a public blockchain, offering discounts to requesters who obtain results directly from processed data and rewards to data providers.
+4. Employment Opportunities Regardless of Location, Age, or Gender
+The platform provides employment opportunities that are not limited by geographical location, age, or gender. Anyone who qualifies through online training and assessment can accept tasks and work online.
+
+### Novelty and Reasons for Decentralization:
+1. Efficiency in Handling Large Data Volumes:
+Decentralization allows for the distribution of large data sets among many proofreaders, making the proofreading process more efficient and faster.
+2. Quality Assurance through Multi-Level Proofreading:
+The multi-level approach ensures high-quality outcomes as data passes through various levels of scrutiny.
+3. Enhanced Security and Transparency:
+Using blockchain for data processing ensures a secure and transparent process, as all transactions and changes are recorded on the blockchain.
+4. Economic Incentives and Fair Compensation:
+The blockchain-based incentive system ensures fair compensation for proofreaders and motivates high-quality work.
+5. Flexibility and Accessibility:
+The platform's lack of restrictions regarding location, age, or gender makes it accessible to a wide range of individuals, promoting inclusivity and offering flexible work opportunities.
 
 ## Implementation:
-1.Source code  
-2.Functions  
+1. Source code  
+2. Functions  
+3. Show the Solutions given in the BP  
 
 ## Application:
 1. 客户服务自动化：  

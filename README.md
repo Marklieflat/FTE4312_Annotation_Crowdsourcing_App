@@ -1,7 +1,7 @@
 # FTE4312_Proofreading_Project
 The repository of De-data Proofreading crowdsourcing App
 
-## Introduction:
+## Introduction: (Glynn)  
 
 In the rapidly evolving digital era, the surge in data generation, particularly in the realm of audio and speech, presents both an opportunity and a challenge. The "De-data Proofreading crowdsourcing App" emerges as a pivotal solution to the modern-day data deluge, addressing the critical need for accurate and efficient processing of speech data. This project is not just an innovation in data handling but also a stride forward in leveraging the potential of crowd-sourced intelligence and blockchain technology.
 
@@ -13,7 +13,7 @@ In essence, the De-data Proofreading App is more than a technological marvel, it
 
 At De-data, we take pride in creating a space where technology complements human intelligence, leading the charge in revolutionizing speech data understanding and utilization in our interconnected digital landscape.
 
-## Motivation:
+## Motivation: (Zekai)  
 ### Market value:
  Speech recognition market continues to grow at a high rate, driven by recognition accuracy improvement in 2017-2022, with an average annual compound growth rate of about 26% in 2022, the market size of 13.640 billion yuan in 2022; 2022-2027 application scenarios expanding Driven by the expansion of application scenarios in 2022-2027, the average annual compound growth rate of about 28%, the market size in 2027 is expected to exceed 45 billion yuan exceeded 45 billion yuan.
 
@@ -30,7 +30,7 @@ At De-data, we take pride in creating a space where technology complements human
  4. Duplicate proofreading
  Facing duplicate proofreading or proofreading requesters not benefiting from duplicate proofreading of data.
 
-## Significance & Novelty:
+## Significance & Novelty: (Mark)  
 ### Advantages：
 1. Multi-Level Crowdsourcing：
 This approach first involves small-scale crowdsourcing, followed by integration and further crowdsourcing. It allows for efficient handling of large volumes of data by breaking them down into manageable parts and distributing them among various proofreaders.
@@ -53,12 +53,13 @@ The blockchain-based incentive system ensures fair compensation for proofreaders
 5. Flexibility and Accessibility:
 The platform's lack of restrictions regarding location, age, or gender makes it accessible to a wide range of individuals, promoting inclusivity and offering flexible work opportunities.
 
-## Implementation:
+## Implementation: (All)
 1. Source code  
 2. Functions  
-3. Show the Solutions given in the BP  
+3. Show the Solutions given in the BP
+4. create: Mark, assign: Glynn, complete & evaluate: Zekai
 
-## Application:
+## Application: (Glynn)
 1. Voice Assistants and Smart Home Control:
 Used for developing intelligent assistants such as Siri, Alexa, and Google Assistant. They enable the control of smart home devices like lighting and temperature control systems.
 
@@ -71,4 +72,4 @@ Automatically generates subtitles and summaries for videos or podcasts. It also 
 4. Business and Market Research:
 Analyzes speech data from customer service records and market research to gain insights. It aids businesses in understanding customer needs and market trends.
 
-## Q & A:
+## Q & A: (To be determined)  

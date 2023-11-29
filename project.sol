@@ -2,12 +2,16 @@
 pragma solidity ^0.8.0;
 
 // Need to be done:
-// Deposit function should be fixed to let the user specify the amount of Ether to deposit
-// Check the task number after the evaluation to make sure the task is deleted
-// Add a function to withdraw Ether from the contract
-// Add a function to get the balance of the contract
-// Restrict the taskcount to be less than 50
-// Add a function to get the number of tasks of a worker
+// 1. Deposit function should be fixed to let the user specify the amount of Ether to deposit
+// 2. Check the task number after the evaluation to make sure the task is deleted
+// 3. Add a function to withdraw Ether from the contract
+// 4. Add a function to get the balance of the contract
+// 5. Restrict the taskcount to be less than 50
+// 6. Add a function to get the number of tasks of a worker
+
+// 1-2: Mark Friday
+// 3-4: Glynn Saturday
+// 5-6: Zekai Sunday
 
 contract RWRC {
     // Struct for representing a task

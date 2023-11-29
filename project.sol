@@ -1,6 +1,14 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
+// Need to be done:
+// Deposit function should be fixed to let the user specify the amount of Ether to deposit
+// Check the task number after the evaluation to make sure the task is deleted
+// Add a function to withdraw Ether from the contract
+// Add a function to get the balance of the contract
+// Restrict the taskcount to be less than 50
+// Add a function to get the number of tasks of a worker
+
 contract RWRC {
     // Struct for representing a task
     struct Task {
@@ -36,6 +44,10 @@ contract RWRC {
 
     // Function for workers to assign themselves a task
     function assignTask(uint _taskId) public {
+        if (reputation[msg.sender] == 0) {
+            // Initialize reputation to 50 for new workers
+            reputation[msg.sender] = 50;
+        }
         require(reputation[msg.sender] >= minimumReputation, "Insufficient reputation");
         Task storage task = tasks[_taskId];
         require(task.requester != address(0), "Task does not exist");
@@ -65,6 +77,7 @@ contract RWRC {
         task.isAccepted = _isAccepted;
         if (_isAccepted) {
             payable(task.worker).transfer(task.reward);
+            taskCount--;
             updateReputation(task.worker, true);
         } else {
             updateReputation(task.worker, false);

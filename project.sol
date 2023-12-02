@@ -4,8 +4,8 @@ pragma solidity ^0.8.7;
 // Need to be done:
 // 1. Deposit function should be fixed to let the user specify the amount of Ether to deposit
 // 2. Check the task number after the evaluation to make sure the task is deleted
-// 3. Add a function to withdraw Ether from the contract
-// 4. Add a function to get the balance of the contract
+// 3. Add a function to withdraw Ether from the contract √
+// 4. Add a function to get the balance of the contract √
 // 5. Restrict the taskcount to be less than 50
 // 6. Add a function to get the number of tasks of a worker
 
@@ -130,7 +130,7 @@ contract RWRC {
         emit DepositMade(msg.sender, msg.value);
     }
 
-    // New function to get the contract's Ether balance
+    // Get the contract's Ether balance
     function getBalance() public view returns (uint) {
         return address(this).balance;
     }
@@ -146,11 +146,23 @@ contract RWRC {
         return count;
     }
 
-    // New function to withdraw Ether from the contract
+    // To check the worker is valid
+    function isWorkerInAnyTask() internal view returns (bool) {
+        for (uint i = 1; i <= taskCount; i++) {
+            Task storage task = tasks[i];
+            for (uint j = 0; j < task.workerAddresses.length; j++) {
+                if (task.workerAddresses[j] == msg.sender) {
+                    return true;
+                }
+            }
+        }
+        return false;
+    }
+    
+    // Withdraw Ether from the contract
     function withdraw(uint _amount) public {
-        require(msg.sender == address(this), "Unauthorized");
+        require(isWorkerInAnyTask(), "Unauthorized: Caller is not a worker in any task");
         require(_amount <= address(this).balance, "Insufficient balance");
         payable(msg.sender).transfer(_amount);
-    }
 }
 

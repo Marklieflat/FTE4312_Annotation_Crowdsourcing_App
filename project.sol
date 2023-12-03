@@ -164,5 +164,6 @@ contract RWRC {
         require(isWorkerInAnyTask(), "Unauthorized: Caller is not a worker in any task");
         require(_amount <= address(this).balance, "Insufficient balance");
         payable(msg.sender).transfer(_amount);
-}
+    }
 
+}

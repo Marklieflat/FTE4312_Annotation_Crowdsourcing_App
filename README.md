@@ -1,15 +1,15 @@
-# FTE4312_Proofreading_Project
-The repository of De-data Proofreading crowdsourcing App
+# FTE4312_Annotation_Crowdsourcing_App
+The repository of De-data Annotation crowdsourcing App
 
 ## Introduction: (Glynn)  
 
-In the rapidly evolving digital era, the surge in data generation, particularly in the realm of audio and speech, presents both an opportunity and a challenge. The "De-data Proofreading crowdsourcing App" emerges as a pivotal solution to the modern-day data deluge, addressing the critical need for accurate and efficient processing of speech data. This project is not just an innovation in data handling but also a stride forward in leveraging the potential of crowd-sourced intelligence and blockchain technology.
+In the rapidly evolving digital era, the surge in data generation, particularly in the realm of audio and speech, presents both an opportunity and a challenge. The "De-data Annotation crowdsourcing App" emerges as a pivotal solution to the modern-day data deluge, addressing the critical need for accurate and efficient processing of speech data. This project is not just an innovation in data handling but also a stride forward in leveraging the potential of crowd-sourced intelligence and blockchain technology.
 
-What truly sets our app apart is its decentralized framework. This approach is pivotal in distributing large datasets across a wide network of proofreaders, thereby enhancing efficiency and speed. Decentralization not only accelerates the proofreading process but also ensures a higher quality of output through multi-level scrutiny. It's a beacon of security and transparency, where every transaction and modification is indelibly recorded on the blockchain, assuring accountability and trust.
+What truly sets our app apart is its decentralized framework. This approach is pivotal in distributing large datasets across a wide network of annotators, thereby enhancing efficiency and speed. Decentralization not only accelerates the annotation process but also ensures a higher quality of output through multi-level scrutiny. It's a beacon of security and transparency, where every transaction and modification is indelibly recorded on the blockchain, assuring accountability and trust.
 
-Moreover, this decentralized system lays the foundation for a fair and motivating economic model. Proofreaders are justly compensated, incentivizing top-quality work. The platform's inclusivity extends beyond geographical, age, or gender barriers, offering equal opportunities to a diverse pool of talent.
+Moreover, this decentralized system lays the foundation for a fair and motivating economic model. Annotators are justly compensated, incentivizing top-quality work. The platform's inclusivity extends beyond geographical, age, or gender barriers, offering equal opportunities to a diverse pool of talent.
 
-In essence, the De-data Proofreading App is more than a technological marvel, it's a confluence of human expertise and technological prowess. It embodies the potential of decentralization in enhancing data processing, making us not just transcribers of words, but interpreters of meaning and context.
+In essence, the De-data Annotation App is more than a technological marvel, it's a confluence of human expertise and technological prowess. It embodies the potential of decentralization in enhancing data processing, making us not just transcribers of words, but interpreters of meaning and context.
 
 At De-data, we take pride in creating a space where technology complements human intelligence, leading the charge in revolutionizing speech data understanding and utilization in our interconnected digital landscape.
 
@@ -27,15 +27,15 @@ At De-data, we take pride in creating a space where technology complements human
  For example, the fastest time for KDDI to artificially convert 1 hour of audio and video is 3 hours, 5-8 hours for subtitles, and 12 hours for English.
  3. Complexity and diversity of content
  Multi-language, multi-professional and regional dialect accents, low volume, many speakers, fast speech, background noise and other complex audio and video or special format requirements of audio and video processing.
- 4. Duplicate proofreading
- Facing duplicate proofreading or proofreading requesters not benefiting from duplicate proofreading of data.
+ 4. Duplicate Annotation
+ Facing duplicate annotation or annotation requesters not benefiting from duplicate annotation of data.
 
 ## Significance & Novelty: (Mark)  
 ### Advantages：
 1. Multi-Level Crowdsourcing：
-This approach first involves small-scale crowdsourcing, followed by integration and further crowdsourcing. It allows for efficient handling of large volumes of data by breaking them down into manageable parts and distributing them among various proofreaders.
-2. Creation of a Proofreader Database：
-The platform leverages AI to train, evaluate, grade, and tag proofreaders, ensuring a steady supply of qualified online proofreaders. This database enhances the quality and reliability of the proofreading process.
+This approach first involves small-scale crowdsourcing, followed by integration and further crowdsourcing. It allows for efficient handling of large volumes of data by breaking them down into manageable parts and distributing them among various annotators.
+2. Creation of a Annotator Database：
+The platform leverages AI to train, evaluate, grade, and tag annotators, ensuring a steady supply of qualified online annotators. This database enhances the quality and reliability of the annotation process.
 3. Blockchain Incentives：
 The platform uses a decentralized blockchain-based system for two-way incentives. It records data features and processing on a public blockchain, offering discounts to requesters who obtain results directly from processed data and rewards to data providers.
 4. Employment Opportunities Regardless of Location, Age, or Gender
@@ -43,13 +43,13 @@ The platform provides employment opportunities that are not limited by geographi
 
 ### Novelty and Reasons for Decentralization:
 1. Efficiency in Handling Large Data Volumes:
-Decentralization allows for the distribution of large data sets among many proofreaders, making the proofreading process more efficient and faster.
-2. Quality Assurance through Multi-Level Proofreading:
+Decentralization allows for the distribution of large data sets among many annotators, making the annotation process more efficient and faster.
+2. Quality Assurance through Multi-Level Annotation:
 The multi-level approach ensures high-quality outcomes as data passes through various levels of scrutiny.
 3. Enhanced Security and Transparency:
 Using blockchain for data processing ensures a secure and transparent process, as all transactions and changes are recorded on the blockchain.
 4. Economic Incentives and Fair Compensation:
-The blockchain-based incentive system ensures fair compensation for proofreaders and motivates high-quality work.
+The blockchain-based incentive system ensures fair compensation for annotators and motivates high-quality work.
 5. Flexibility and Accessibility:
 The platform's lack of restrictions regarding location, age, or gender makes it accessible to a wide range of individuals, promoting inclusivity and offering flexible work opportunities.
 

@@ -1,18 +1,6 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.7;
 
-// Need to be done:
-// 1. Deposit function should be fixed to let the user specify the amount of Ether to deposit
-// 2. Check the task number after the evaluation to make sure the task is deleted
-// 3. Add a function to withdraw Ether from the contract √
-// 4. Add a function to get the balance of the contract √
-// 5. Restrict the taskcount to be less than 50
-// 6. Add a function to get the number of tasks of a worker
-
-// 1-2: Mark Friday
-// 3-4: Glynn Saturday
-// 5-6: Zekai Sunday
-
 contract RWRC {
     struct Task {
         uint id;
